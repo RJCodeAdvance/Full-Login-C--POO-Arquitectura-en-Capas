@@ -1,6 +1,6 @@
 # Full-Login-C#-POO-Arquitectura-en-Capas
-Proyecto Inicio de Sesion Completo con C#, Arquitectura en Capas, Programacion oriendata a objetos, WinForm
-Este Proyecto no tiene código fuente expuesto. Sin embargo puede descargar el ejecutable de la aplicación desde el apartado de lanzamientos(Releases)
+Proyecto Inicio de Sesion Completo con C#, Arquitectura en Capas, Programacion oriendata a objetos, WinForm</br></br>
+Puede descargar la aplicación en modo Prueba desde el apartado de <a href="https://github.com/RJCodeAdvance/Full-Login-C--POO-Arquitectura-en-Capas/releases">lanzamientos(Releases)</a>
 <h2>Tutorial:</h2>
 <h3>Blog:</h3>
 https://rjcodeadvance.com/category/cursos/login-completo-c-sharp-sql-server/
